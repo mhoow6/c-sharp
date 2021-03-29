@@ -1,0 +1,14 @@
+# .vs directory
+.vs/
+
+# Debug directory
+Debug/
+
+# project directory
+csharp/
+
+# env
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
